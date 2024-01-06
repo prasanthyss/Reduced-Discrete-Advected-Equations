@@ -23,3 +23,6 @@ system like rigidity, momentum, energy conservation and agree with our predictio
 variational integrators. This integrator has then been used to study complex precession
 behavior of a spinning heavy top. Our model was able to show good beahviour even after
 long intervals of time due to conservative nature of variational integrators.
+
+
+![Comparison with Range Kutta 4th order method](https://github.com/prasanthyss/Reduced-Discrete-Advected-Equations/blob/main/result.gif)
