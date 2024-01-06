@@ -1,5 +1,10 @@
 # Reduced Discrete Advected Equations
 
+
+<div align="center">
+  <img src="https://github.com/prasanthyss/Reduced-Discrete-Advected-Equations/blob/main/plots/result.gif" alt="Comparison with Range Kutta 4th order method">
+</div>
+
 Governing dynamics of an invariant Lagrangian system, evolving on Lie-group, can be
 reduced to Lie-algebra. A similar reduction to the Lie-group is possible for the discrete
 cases. Starting from an invariant discrete Lagrangian, we derive equations that can be
@@ -23,7 +28,3 @@ system like rigidity, momentum, energy conservation and agree with our predictio
 variational integrators. This integrator has then been used to study complex precession
 behavior of a spinning heavy top. Our model was able to show good beahviour even after
 long intervals of time due to conservative nature of variational integrators.
-
-<div align="center">
-  <img src="https://github.com/prasanthyss/Reduced-Discrete-Advected-Equations/blob/main/plots/result.gif" alt="Comparison with Range Kutta 4th order method">
-</div>
