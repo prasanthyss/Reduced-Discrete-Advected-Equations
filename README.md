@@ -25,5 +25,5 @@ behavior of a spinning heavy top. Our model was able to show good beahviour even
 long intervals of time due to conservative nature of variational integrators.
 
 <div align="center">
-  <img src="https://github.com/prasanthyss/Reduced-Discrete-Advected-Equations/blob/main/result.gif" alt="Comparison with Range Kutta 4th order method">
+  <img src="https://github.com/prasanthyss/Reduced-Discrete-Advected-Equations/blob/main/plots/result.gif" alt="Comparison with Range Kutta 4th order method">
 </div>
